@@ -2,7 +2,7 @@
 
 ### Storyboard version of prepared app
 
-###Stacks:
+Stacks:
 -UIKit
 -Storyboard
 -CoreData
